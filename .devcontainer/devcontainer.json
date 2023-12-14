@@ -1,0 +1,11 @@
+{
+  "name": "devkitARM",
+  "image": "devkitpro/devkitarm:20230928",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.cpptools"
+      ]
+    }
+  }
+}
